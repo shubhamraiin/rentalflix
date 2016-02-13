@@ -1,5 +1,10 @@
 package io.egen.rentalflix;
 
+import java.util.Collections;
+import java.util.List;
+import java.util.ArrayList;
+
+
 /**
  * Service implementing IFlix interface
  * You can use any Java collection type to store movies
