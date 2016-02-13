@@ -54,13 +54,13 @@ public class Movie {
 	{
 		this.language = language;
 	}
-	public boolean isRent()
+	public boolean isRented()
 	{
-		return isRent;
+		return isRented;
 	}
 
-	public void setRent(boolean isRent)
+	public void setRent(boolean isRented)
 	{
-		this.isRent = isRent;
+		this.isRented = isRented;
 	}
 }
